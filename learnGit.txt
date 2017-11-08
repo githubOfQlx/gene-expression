@@ -1,3 +1,5 @@
 This is for learning git.
-
 Add the first line
+Add the first line
+Add the second line
+Add the third line
